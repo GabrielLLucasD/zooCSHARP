@@ -11,7 +11,6 @@ ________________________________________________________________________________
 
 
 ## Levantamento de requisitos:
-_______________________________________________________________________________________________________________________________
 
 ### Funcionalidades:
 
@@ -27,7 +26,7 @@ ________________________________________________________________________________
 - o sistema deve ser capaz de cadastrar e remover os funcionários;
 _______________________________________________________________________________________________________________________________
 
-## Financeiro:
+### Financeiro:
 
 - o sistema deve ter um controle de estoque para a ração dos animais;
 - o sistema deve ser capaz de gerenciar os preços das rações.
