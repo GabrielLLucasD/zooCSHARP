@@ -1,6 +1,6 @@
 # ZOO GABRIEL
 
-##Sobre o Projeto:
+## Sobre o Projeto:
 
   Esse código tem o objetivo de ser um cadastro e consulta de animais de um zoologico. 
   Sou um iniciante em programação e em C#, por isso pretendo aprimorar a lógica do codigo conforme for evoluindo na linguagem,
@@ -10,4 +10,4 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________
 
 
-##Levantamento de requisitos:
+## Levantamento de requisitos:
